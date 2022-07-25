@@ -12,3 +12,4 @@ for i in range (1,a+1):
     sum=sum+c
 
 print(f"The sum of the above series is: {sum}")
+x
