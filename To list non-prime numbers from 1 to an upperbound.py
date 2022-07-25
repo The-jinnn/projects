@@ -1,6 +1,3 @@
-from operator import truediv
-
-
 a=int(input("Input the upperlimit:  "))
 
 found=False
