@@ -1,6 +1,6 @@
 a=int(input("Input a number to check prime or not: "))
 found= False
-if (a==0)or(a==1):
+if (a<2):
     print("The entered number is not a prime numer")
 else:
     for i in range (2,a):
