@@ -6,3 +6,4 @@ for i in range(1,10+1):
         print(f"{j}X{i}={i*j}",end=" ")
 
     print('\n')
+    
