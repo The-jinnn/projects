@@ -15,4 +15,3 @@ for i in range (2,c+1):
         if (i>d):
             d=i
 print(f"The Greatest Common Divisor is: {d}")
-
