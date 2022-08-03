@@ -1,6 +1,3 @@
-from re import I
-
-
 a=int(input("Input a number to find the factorial: "))
 
 sum =1
