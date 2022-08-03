@@ -7,3 +7,5 @@ for i in range (1,a*2):
         for s in range(0,i):
             print('*',end=' ')
         print("\n")
+
+        
